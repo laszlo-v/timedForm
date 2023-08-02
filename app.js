@@ -27,13 +27,13 @@
   const htmlRequired = `<div class="required"><h3>Fill out the form properly</h3></div>`;
   const htmlInvalidEmail = `<div class="invalidEmail"><h3>Invalid email</h3></div>`;
   const allSetAndSaved = `<div class="allSet"><h3>Nice, all data saved</h3></div>`;
-  const nameIsCorrect = `<div class="nameCorrect"><h3>Name is correct 👍</h3></div>`;
-  const nameIsIncorrect = `<div class="nameIncorrect"><h3>Name is Incorrect ⛔ </h3></div>`;
-  const emailIsIncorrect = `<div class="emailIncorrect"><h3>Email is Incorrect ⛔ </h3></div>`;
-  const emailIsCorrect = `<div class="emailCorrect"><h3>Email is correct 👍</h3></div>`;
-  const lettersAreOK = `<div class="lettersOK"><h3>Characters are OK, but the timing 🤔</h3></div>`;
-  const lettersAreIncorrect = `<div class="lettersIncorrect"><h3>Incorrect characters ⛔</h3></div>`;
-  const allCorrect = `<div class="allMatches"><h3>Nice 😃</h3></div>`;
+  const nameIsCorrect = `<div class="nameCorrect"><h3>Name is correct </h3></div>`;
+  const nameIsIncorrect = `<div class="nameIncorrect"><h3>Name is Incorrect  </h3></div>`;
+  const emailIsIncorrect = `<div class="emailIncorrect"><h3>Email is Incorrect  </h3></div>`;
+  const emailIsCorrect = `<div class="emailCorrect"><h3>Email is correct </h3></div>`;
+  const lettersAreOK = `<div class="lettersOK"><h3>Characters are OK, but the timing </h3></div>`;
+  const lettersAreIncorrect = `<div class="lettersIncorrect"><h3>Incorrect characters </h3></div>`;
+  const allCorrect = `<div class="allMatches"><h3>Nice </h3></div>`;
 
   checkBtn.style.display = "none";
   resetBtn.style.display = "none";
